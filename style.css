@@ -6,9 +6,9 @@
 body {
     background: rgb(0, 0, 0);
     background: radial-gradient(circle, 
-  rgba(180, 150, 220, 1) 0%,     /* Darker pastel purple center */
-  rgba(200, 170, 230, 0.8) 40%,  /* Smooth lavender blend */
-  rgba(220, 190, 240, 0.5) 80%  /* Softer fade */
+ rgba(255, 192, 203, 1) 0%,     /* Pastel pink center */
+  rgba(180, 150, 220, 0.9) 50%,  /* Pastel purple mid */
+  rgba(173, 216, 230, 0.8) 100%  /* Pastel blue outer edge */
     );
     font-family: Arial, sans-serif;
     text-align: center;
