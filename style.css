@@ -6,10 +6,10 @@
 body {
     background: rgb(0, 0, 0);
     background: radial-gradient(circle, 
-  rgba(221, 200, 255, 1) 0%,     /* Light pastel purple center */
-  rgba(232, 210, 255, 0.8) 40%,  /* Soft blend */
-  rgba(245, 230, 255, 0.5) 80%,  /* Even softer edges */
-  rgba(255, 255, 255, 0) 100%    /* Fade to transparent */
+  rgba(180, 150, 220, 1) 0%,     /* Darker pastel purple center */
+  rgba(200, 170, 230, 0.8) 40%,  /* Smooth lavender blend */
+  rgba(220, 190, 240, 0.5) 80%,  /* Softer fade */
+  rgba(255, 255, 255, 0) 100%  /* Fade to transparent */
 );
     font-family: Arial, sans-serif;
     text-align: center;
